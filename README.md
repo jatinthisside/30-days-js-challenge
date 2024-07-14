@@ -1,14 +1,14 @@
-#🌟 30 Days JavaScript Challenge 🌟
+# 🌟 30 Days JavaScript Challenge 🌟
 
 Welcome to the 30 Days JavaScript Challenge repository! This repository contains solutions and detailed notes for each day's task in the challenge. The code is thoroughly commented to serve as a learning resource for everyone.
 
 
-##📚 About the Challenge
+## 📚 About the Challenge
 
 The 30 Days JavaScript Challenge is designed by Hitesh Choudhary to help you master JavaScript through daily tasks and projects. Whether you're a beginner or looking to sharpen your skills, this challenge will provide you with practical experience in JavaScript.
 
 
-##📂 Repository Structure
+## 📂 Repository Structure
 
 The repository is organized into folders, one for each day of the challenge:
 
@@ -37,14 +37,14 @@ The repository is organized into folders, one for each day of the challenge:
        └── solution.js
     
 
-##Each folder contains:
+## Each folder contains:
 
 **task.txt**: The task description for the day.
 
 **solution.js**: My solution with detailed comments and explanations.
 
 
-##🚀 How to Use This Repository
+## 🚀 How to Use This Repository
 
 **🔍 Explore the Code**: Navigate through the folders to find the day's task and solution.
 
