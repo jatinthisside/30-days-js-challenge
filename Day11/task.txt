@@ -1,0 +1,20 @@
+ Day - 11 : Promises and Async/Await
+
+// Activity 1: Understanding Promises
+// Task1>  Create a promise that resolves with a message after a 2-second timeout and log the message to the console.
+// Task2> Create a promise that rejects with an error msg after a 2 sec timeout and handle the error using catch.
+
+// Activity 2: Chaining Promises
+// Task3> Create a sequence of promises that simulate fetching data froma server. chain the promises to log messages in a specific order.
+
+// Activity 3 : Using Async/Await
+// Task4> Write an async function that waits for a promise to resolve and then logs the resolved value
+// Task5> Write an async function that handles a rejected promise using try-catch and logs the error message.
+
+// Activity 4 : Fetching data from api
+// Task6> Use a fetch api to get data from a public api and log the responce data to the console using promise.
+// Task7> Use a fetch api to get data from a public api and log the responce data to the console using async/await.
+
+// Activity 5 : Concurrent Promises
+// Task8> Use a promise.all to wait for multiple promises to resolve and then log all their values.
+// Task9> Use promise.race to log the value of the first promise that resolves among multiple promises.
