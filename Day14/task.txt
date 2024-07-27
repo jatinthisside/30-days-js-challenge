@@ -1,0 +1,21 @@
+Day - 14 : Classes
+
+// Activity 1 : Class Definition
+// Task1> Define a class Person with property name and age, and a method to return a greeting message. create an instance of class and log the greeting message.
+// Task2> Add a method to Person class that updates the age property and logs the updated age.
+
+// Activity 2 : Class Inheritance
+// Task3> Define a class student that extends the Person class. Add a property studentId and a method to return the studentId. create an instance of Student class and log the studentId.
+// Task4> Override the greeting method in student class to include studentId in message. log the overridden greeting message.
+
+// Activity 3 : Static Method and Properties
+// Task5> Add a static method to the Person class that returns a generic greeting message. call this static method without creating an instance of the class and log the message.
+// Task6> Add a static property to the Student class to keep track of the number of students created. incrament this property in the constructor and log the total number of students created.
+
+// Activity 4 : Getters and Setters
+// Task7> Add a getter method to the Person class to return the full name (assume a firstname and lastname property). create an instance and log the fullname using the getter.
+// Task8> Add a setter method to the Person class to update the name property (firstname,lastname) , Update the name using setter and log the updated full name.
+
+// Activity 5 : Private Fields (Optional)
+// Task9> Define a class account with private fields for balance and a method to deposit and withdraw money. ensure that the balance can only be updated through thsese methods.
+// Task10> Create an instance of Account class and test the deposit and withdraw methods, logging the balance after each operation.
