@@ -1,0 +1,19 @@
+Day - 15 : Closure
+
+// Activity 1 : Understanding Closure
+// Task1> Write a function that return another function, where an inner function accesses a variable from outer function's scope. call the inner function and log the result.
+// Task2> Create a closure that maintains a private counter. implement functions to increment and get the current value of the counter.
+
+// Activity 2 : Practical Closure
+// Task3> write a function that generates unique IDs. Use a closure to keep track of the last generated ID and increment it with each call.
+// Task4> Create a closure that captures a users name and returns a function that greets a user by name.
+
+// Activity 3 : Closures in Loops
+// Task5> Write a loop that creates an array of functions. Each Function Should log its index when called. Use a closure to ensure each function logs the currect index.
+
+// Activity 4 : Module Pattern
+// Task6> Use closure to create a simple module for managing a collection of items. implement methods to add, remove and list items.
+
+// Activity 5 : Memoization
+// Task7> Write a function that memorizes the result of another function. Use a closure to store the results of previous computations.
+// Task8> Create a memorized version of a function that calculates the factorial of a number.
